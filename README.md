@@ -3,6 +3,7 @@
 🎓 Bachelor in Computer Science  
 📚 Currently pursuing a Software Engineering degree  
 💻 Passionate about all types of programming:  
+   - Game Dev 🕹️
    - Frontend 🌐
    - Backend 🔧
    - Software 🖥️
